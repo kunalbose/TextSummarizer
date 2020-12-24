@@ -33,7 +33,7 @@ def main():
                 # else:
                 #     st.error('cannot get any substantial Summary,Sorry!!!')
         else:
-            st.error('type somethig in there')
+            st.error('type something in there')
 
 
 
